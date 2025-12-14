@@ -2,7 +2,7 @@
   "name": "cyberpunk-dusk-theme",
   "displayName": "Cyberpunk Dusk",
   "description": "A cyberpunk-inspired dark theme for VS Code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "bobmakhlin",
   "engines": {
     "vscode": "^1.60.0"
