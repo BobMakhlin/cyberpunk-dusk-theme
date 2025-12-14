@@ -1,0 +1,24 @@
+{
+  "name": "cyberpunk-dusk-theme",
+  "displayName": "Cyberpunk Dusk",
+  "description": "A cyberpunk-inspired dark theme for VS Code",
+  "version": "1.0.0",
+  "publisher": "bobmakhlin",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyberpunk Dusk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk-dusk-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BobMakhlin/cyberpunk-dusk-theme"
+  }
+}
