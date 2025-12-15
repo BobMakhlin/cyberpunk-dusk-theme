@@ -816,33 +816,33 @@
     "editorRuler.foreground": "#1A2233",
 
     // =============================================
-    // GUTTER (GIT DECORATIONS)
+    // GUTTER (GIT DECORATIONS) - Cyberpunk dusk neons
     // =============================================
     "editorGutter.background": "#0A0F18",
-    "editorGutter.addedBackground": "#2C6B5B",
-    "editorGutter.modifiedBackground": "#2A5A74",
-    "editorGutter.deletedBackground": "#6B3646",
+    "editorGutter.addedBackground": "#5EADAD",
+    "editorGutter.modifiedBackground": "#8B7EC8",
+    "editorGutter.deletedBackground": "#C96A6A",
 
     // =============================================
-    // OVERVIEW RULER (uses gutter colors)
+    // OVERVIEW RULER - Cyberpunk dusk neons
     // =============================================
     "editorOverviewRuler.border": "#141C2A",
-    "editorOverviewRuler.addedForeground": "#2C6B5B",
-    "editorOverviewRuler.modifiedForeground": "#2A5A74",
-    "editorOverviewRuler.deletedForeground": "#6B3646",
-    "editorOverviewRuler.errorForeground": "#6B3646",
-    "editorOverviewRuler.warningForeground": "#B5966B",
-    "editorOverviewRuler.infoForeground": "#2A766E",
+    "editorOverviewRuler.addedForeground": "#5EADAD",
+    "editorOverviewRuler.modifiedForeground": "#8B7EC8",
+    "editorOverviewRuler.deletedForeground": "#C96A6A",
+    "editorOverviewRuler.errorForeground": "#C96A6A",
+    "editorOverviewRuler.warningForeground": "#C9A657",
+    "editorOverviewRuler.infoForeground": "#5EADAD",
 
     // =============================================
-    // MINIMAP
+    // MINIMAP - Cyberpunk dusk neons
     // =============================================
     "minimap.background": "#080C14",
     "minimap.selectionHighlight": "#2A766E55",
     "minimap.findMatchHighlight": "#2A766E44",
-    "minimapGutter.addedBackground": "#2C6B5B",
-    "minimapGutter.modifiedBackground": "#2A5A74",
-    "minimapGutter.deletedBackground": "#6B3646",
+    "minimapGutter.addedBackground": "#5EADAD",
+    "minimapGutter.modifiedBackground": "#8B7EC8",
+    "minimapGutter.deletedBackground": "#C96A6A",
 
     // =============================================
     // LISTS (Explorer, Quick Open, etc.)
@@ -936,21 +936,52 @@
     "peekViewTitleLabel.foreground": "#C7CFD8",
 
     // =============================================
-    // DIFF EDITOR
+    // DIFF EDITOR - Cyberpunk dusk neons (high visibility)
     // =============================================
-    "diffEditor.insertedTextBackground": "#2C6B5B22",
-    "diffEditor.removedTextBackground": "#6B364622",
-    "diffEditor.insertedLineBackground": "#2C6B5B15",
-    "diffEditor.removedLineBackground": "#6B364615",
+    "diffEditor.insertedTextBackground": "#5EADAD60",
+    "diffEditor.removedTextBackground": "#C96A6A55",
+    "diffEditor.insertedLineBackground": "#5EADAD38",
+    "diffEditor.removedLineBackground": "#C96A6A35",
     "diffEditor.border": "#141C2A",
+    "diffEditor.diagonalFill": "#1A2233",
+    "diffEditorGutter.insertedLineBackground": "#5EADAD55",
+    "diffEditorGutter.removedLineBackground": "#C96A6A50",
+    "diffEditorOverview.insertedForeground": "#5EADAD",
+    "diffEditorOverview.removedForeground": "#C96A6A",
+    
+    // Inline change decorations (AI edits)
+    "editor.wordHighlightTextBackground": "#5EADAD25",
+    "editorInlayHint.background": "#8B7EC830",
+    "editorInlayHint.foreground": "#A3ACBA",
 
     // =============================================
-    // MERGE EDITOR
+    // INLINE CHAT / AI CHANGES - Cyberpunk dusk neons
     // =============================================
-    "merge.currentHeaderBackground": "#2C6B5B44",
-    "merge.currentContentBackground": "#2C6B5B22",
-    "merge.incomingHeaderBackground": "#2A5A7444",
-    "merge.incomingContentBackground": "#2A5A7422",
+    "inlineChat.background": "#0B1220",
+    "inlineChat.border": "#2A766E",
+    "inlineChat.shadow": "#00000066",
+    "inlineChatInput.background": "#0A0F18",
+    "inlineChatInput.border": "#203047",
+    "inlineChatInput.focusBorder": "#2A766E",
+    "inlineChatInput.placeholderForeground": "#6C7688",
+    "inlineChatDiff.inserted": "#5EADAD50",
+    "inlineChatDiff.removed": "#C96A6A48",
+
+    // =============================================
+    // INLINE EDITOR CHANGES - Cyberpunk dusk neons
+    // =============================================
+    "editorGutter.commentRangeForeground": "#8B7EC855",
+    "editorGutter.commentGlyphForeground": "#8B7EC8",
+    "editorGutter.commentUnresolvedGlyphForeground": "#C9A657",
+    "editorGutter.foldingControlForeground": "#6C7688",
+
+    // =============================================
+    // MERGE EDITOR - Cyberpunk dusk neons
+    // =============================================
+    "merge.currentHeaderBackground": "#5EADAD44",
+    "merge.currentContentBackground": "#5EADAD22",
+    "merge.incomingHeaderBackground": "#8B7EC844",
+    "merge.incomingContentBackground": "#8B7EC822",
     "merge.border": "#141C2A",
 
     // =============================================
